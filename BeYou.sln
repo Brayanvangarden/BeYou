@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeYou.Infraestructure", "..\BeYou.Infraestructure\BeYou.Infraestructure.csproj", "{72912B9F-ACF1-4D9C-9859-220902BC43C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeYou.DataBase", "..\BeYou.DataBase\BeYou.DataBase.csproj", "{77C6A152-EB4D-454D-A5D1-4C0E5B53CDAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeYou.Application", "..\BeYou.Application\BeYou.Application.csproj", "{F09DC26F-0092-4F82-9192-F2DB37F4C148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeYou.Utils", "..\BeYou.Utils\BeYou.Utils.csproj", "{B832F909-1C3F-4551-BF72-251A8F81C100}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeYou.Site", "..\BeYou.Site\BeYou.Site.csproj", "{EEE7F875-26D7-4041-92A4-0E15C909DC0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeYou.WebAPI", "..\BeYou.WebAPI\BeYou.WebAPI.csproj", "{602A607C-DB52-44D7-8932-DA7C31B9856A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72912B9F-ACF1-4D9C-9859-220902BC43C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72912B9F-ACF1-4D9C-9859-220902BC43C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72912B9F-ACF1-4D9C-9859-220902BC43C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72912B9F-ACF1-4D9C-9859-220902BC43C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77C6A152-EB4D-454D-A5D1-4C0E5B53CDAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77C6A152-EB4D-454D-A5D1-4C0E5B53CDAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77C6A152-EB4D-454D-A5D1-4C0E5B53CDAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77C6A152-EB4D-454D-A5D1-4C0E5B53CDAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09DC26F-0092-4F82-9192-F2DB37F4C148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09DC26F-0092-4F82-9192-F2DB37F4C148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09DC26F-0092-4F82-9192-F2DB37F4C148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09DC26F-0092-4F82-9192-F2DB37F4C148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B832F909-1C3F-4551-BF72-251A8F81C100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B832F909-1C3F-4551-BF72-251A8F81C100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B832F909-1C3F-4551-BF72-251A8F81C100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B832F909-1C3F-4551-BF72-251A8F81C100}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE7F875-26D7-4041-92A4-0E15C909DC0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE7F875-26D7-4041-92A4-0E15C909DC0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE7F875-26D7-4041-92A4-0E15C909DC0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE7F875-26D7-4041-92A4-0E15C909DC0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{602A607C-DB52-44D7-8932-DA7C31B9856A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{602A607C-DB52-44D7-8932-DA7C31B9856A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{602A607C-DB52-44D7-8932-DA7C31B9856A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{602A607C-DB52-44D7-8932-DA7C31B9856A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BC72122-4925-4C06-A9BE-D5CBF8C8B90F}
+	EndGlobalSection
+EndGlobal
